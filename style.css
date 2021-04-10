@@ -1,0 +1,25 @@
+body{
+    background: radial-gradient(pink,orange,violet,skyblue);
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100vh;
+}
+.container{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-1%,100%);
+}
+.ros{
+    font-size: 40px;
+    font-weight: 40px;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
